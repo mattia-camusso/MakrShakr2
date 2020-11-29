@@ -1,0 +1,8 @@
+{
+  "db": {
+    "port": 27017,
+    "url": "mongodb+srv://admin:ioVhZnsYuHoRdDyW@mscluster.ip7o7.mongodb.net/MakrShakr?retryWrites=true&w=majority",
+    "name": "db",
+    "connector": "mongodb"
+  }
+}
